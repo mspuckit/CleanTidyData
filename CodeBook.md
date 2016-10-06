@@ -1,7 +1,7 @@
 #Code Book MD
 
-Please view the CodeBook.docx file  raw text from that file below:  
-*Note Images are lost
+Please view the CodeBook.docx file.  The raw text from that file below:  
+*Note Images are lost from the docx file.
 
 #Code Book 
 This is the code book for Data Science Cleaning data course.
