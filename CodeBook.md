@@ -26,7 +26,9 @@ Features are normalized and bounded within [-1,1].
 * The gyroscope units are rad/seg.
 
 A table of each variable is below:
+
 Column Name		Additional Information
+<pre>
 subjectnumber		Subject number. Integer between 1-30
 Activityname		Activity performed by the subject. String and one of the following values:
 WALKING			The STD and MEAN values for each subject per 
@@ -114,7 +116,7 @@ fBodyBodyGyroMag-meanFreq()
 fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()	
-
+</pre>
 
 	
 
