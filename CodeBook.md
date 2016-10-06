@@ -125,8 +125,10 @@ fBodyBodyGyroJerkMag-meanFreq()
 
 The run_anlysis.r file contains steps on producing the results.  I made the choice to limit the features at the beginning of the process vs. the second step in the assignment.  The results were written to a file tidydata.txt that is a combination of Subject, activity and feature data that is unique, and is the average per variable.
 It is interesting to note that the format of the txt file is a bit unreadable in raw format. To import into Excel a few extra steps are required:
+<pre>
 1. Replace ‘” “ ’ with ‘,’
 2. Replace ‘”’ with ‘’
 3. Replace ‘ ‘ with ‘,’
+</pre>
 A snapshot of the produced data is below:  image is lost in md format.  Please see docx version.
  
