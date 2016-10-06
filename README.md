@@ -14,7 +14,7 @@ Welcome to my Read Me on clean and tidy data.  Below are the requirements:
 To run this project you will need to do the following:
 
 1. Download the data located here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-2. Unpzip the 'UCI HAR Dataset' data into a directory called 'UCI HAR Dataset" directory and its subdirectories inside your working directory.
+2. Unpzip the 'UCI HAR Dataset' data into a directory called 'Coursera/UCI HAR Dataset" directory and its subdirectories inside your working directory.
 3. Copy run_analysis.R to your working directory.
 4. Install the 'data.table' package if you don't have it.
 5. Run run_anlysis.R which will satisfy the following conditions:
