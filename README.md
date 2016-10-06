@@ -24,6 +24,11 @@ To run this project you will need to do the following:
   * Appropriately labels the data set with descriptive variable names. 
   * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+NOTE: It is interesting to note that the format of the txt file is a bit unreadable in raw format. To import into Excel a few extra steps are required:
+-	Replace ‘” “ ’ with ‘,’
+-	Replace ‘”’ with ‘’
+-	Replace ‘ ‘ with ‘,’
+
 
 
 
