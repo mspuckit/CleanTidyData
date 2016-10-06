@@ -31,11 +31,11 @@ Column Name		Additional Information
 <pre>
 subjectnumber		Subject number. Integer between 1-30
 Activityname		Activity performed by the subject. String and one of the following values:
-WALKING			The STD and MEAN values for each subject per 
-WALKING_UPSTAIRS	activity take as the average. 79 in total.  
-WALKING_DOWNSTAIRS	For units see original documentation: 
-SITTING			The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
-STANDING		The gyroscope units are rad/seg.
+WALKING				The following applies to columns 3-81: The STD and MEAN values for each subject per 
+WALKING_UPSTAIRS		activity take as the average. 79 in total.  
+WALKING_DOWNSTAIRS		For units for the 3-81 columns see original documentation: 
+SITTING				For columns 3-81: The units used for the accelerations (total and body) are 
+STANDING			'g's (gravity of earth -> 9.80665 m/seg2). The gyroscope units are rad/seg.
 LAYING
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
